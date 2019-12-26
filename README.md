@@ -77,7 +77,7 @@ The animations rely on the [tween.js library](https://github.com/tweenjs/tween.j
 
 ```html
 <!-- Load animation tweening lib requirement for CanvasFlowMapLayer -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tween.js/16.6.0/Tween.min.js"></script>
+<script src="https://unpkg.com/@tweenjs/tween.js@18.5.0/dist/tween.umd.js"></script>
 
 <!-- then load CanvasFlowMapLayer -->
 <script src="your/path/to/src/CanvasFlowmapLayer.js"></script>
