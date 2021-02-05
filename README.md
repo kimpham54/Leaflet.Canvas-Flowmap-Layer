@@ -10,7 +10,7 @@ The `Leaflet.Canvas-Flowmap-Layer` is a custom layer plugin for [LeafletJS](http
 
 **Important!**
 
-This is a LeafletJS port of [sarahbellum/Canvas-Flowmap-Layer](https://www.github.com/sarahbellum/Canvas-Flowmap-Layer), which was originally written for the ArcGIS API for JavaScript. Go there to learn more! You can also read [this blog post announcement](https://cerebellumaps.wordpress.com/2017/04/20/flow-mapping-with-leaflet/).
+This is a LeafletJS port of [sarahbellum/Canvas-Flowmap-Layer](https://www.github.com/sarahbellum/Canvas-Flowmap-Layer), which was originally written for the ArcGIS API for JavaScript. Go there to learn more!
 
 View our [**presentation at NACIS 2017**](https://www.youtube.com/watch?v=cRPx-BfBtv0).
 
@@ -77,7 +77,7 @@ The animations rely on the [tween.js library](https://github.com/tweenjs/tween.j
 
 ```html
 <!-- Load animation tweening lib requirement for CanvasFlowMapLayer -->
-<script src="https://unpkg.com/@tweenjs/tween.js@18.5.0/dist/tween.umd.js"></script>
+<script src="https://unpkg.com/@tweenjs/tween.js@18.6.4/dist/tween.umd.js"></script>
 
 <!-- then load CanvasFlowMapLayer -->
 <script src="your/path/to/src/CanvasFlowmapLayer.js"></script>
