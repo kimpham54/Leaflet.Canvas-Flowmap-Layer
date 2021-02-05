@@ -399,6 +399,18 @@
       this._resetCanvas();
     },
 
+    selectAllFeaturesForPathDisplay: function() {
+      this.originAndDestinationGeoJsonPoints.features.forEach(function(feature) {
+        if (feature.properties.isOrigin) {
+          feature.properties._isSelectedForPathDisplay = true;
+        } else {
+          feature.properties._isSelectedForPathDisplay = false;
+        }
+      });
+
+      this._resetCanvas();
+    },
+
     _filterGeoJsonPointsToDraw: function(geoJsonFeatureCollection) {
       var newGeoJson = {
         type: 'FeatureCollection',
@@ -540,6 +552,11 @@
     },
 
     _resetCanvas: function() {
+      if (!this._map) {
+        // stop early if the layer is not currently on the map
+        return;
+      }
+
       // update the canvas position and redraw its content
       var topLeft = this._map.containerPointToLayerPoint([0, 0]);
       this._customCanvases.forEach(function(canvas) {

@@ -36,7 +36,7 @@
       margin-bottom: 25px;
       z-index: 1000;
       max-width: 350px;
-      max-height: 515px;
+      max-height: 550px;
       overflow-y: auto;
       border-top: 3px solid #33C3F0;
       border-bottom: 3px solid #33C3F0;
@@ -83,7 +83,6 @@
         width: 100%;
       }
     }
-
   </style>
 
 </head>
@@ -141,6 +140,14 @@
         </div>
       </div>
 
+      <div class="row">
+        <div class="six columns">
+          <button id="showAllPathsButton" class="u-full-width">Show All</button>
+        </div>
+        <div class="six columns">
+          <button id="clearAllPathsButton" class="u-full-width">Clear All</button>
+        </div>
+      </div>
     </div>
 
   </div>
@@ -259,6 +266,8 @@
     var pathAnimationDurationInput = document.getElementById('pathAnimationDurationInput');
     var userInteractionSelect = document.getElementById('userInteractionSelect');
     var pathSelectionTypeSelect = document.getElementById('pathSelectionTypeSelect');
+    var showAllPathsButton = document.getElementById('showAllPathsButton');
+    var clearAllPathsButton = document.getElementById('clearAllPathsButton');
 
     // establish actions for form elements in the control panel card
     oneToManyLayerButton.addEventListener('click', toggleActiveLayer);
@@ -346,6 +355,18 @@
         e.target.selectFeaturesForPathDisplay(e.sharedDestinationFeatures, pathSelectionTypeSelect.value);
       }
     }
+
+    showAllPathsButton.addEventListener('click', function() {
+      layersArray.forEach(function(layer) {
+        layer.selectAllFeaturesForPathDisplay();
+      });
+    });
+
+    clearAllPathsButton.addEventListener('click', function() {
+      layersArray.forEach(function(layer) {
+        layer.clearAllPathSelections();
+      });
+    });
 
   </script>
 

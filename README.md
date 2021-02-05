@@ -213,6 +213,7 @@ style: function(geoJsonFeature) {
 | --- | --- | --- |
 | `selectFeaturesForPathDisplay( selectionFeatures, selectionMode )`  | `selectionFeatures`: `Array` of origin or destination features already managed and displayed by the layer. <br/> <br/> `selectionMode`: `String`. Valid values: `'SELECTION_NEW'`, `'SELECTION_ADD'`, or `'SELECTION_SUBTRACT'`. | This informs the layer which Bezier curves should be drawn on the map. <br/><br/> For example, you can most easily use this in conjunction with a `click` or `mouseover` event listener. |
 | `selectFeaturesForPathDisplayById( uniqueOriginOrDestinationIdField, idValue, originBoolean, selectionMode )` |  | This is a convenience method if the unique origin or destination ID value is already known and you do not wish to rely on a `click` or `mouseover` event listener. |
+| `selectAllFeaturesForPathDisplay()` |  | This informs the layer to select (and thus show) all Bezier curves. |
 | `clearAllPathSelections()` |  | This informs the layer to unselect (and thus hide) all Bezier curves. |
 | `playAnimation()` |  | This starts and shows Bezier curve animations. |
 | `stopAnimation()` |  | This stops and hides any Bezier curve animations. |
