@@ -173,9 +173,9 @@
     L.esri.basemapLayer('DarkGray').addTo(map);
 
     var layersArray = [];
-    createCanvasFlowmapLayer('../csv-data/geosphaeraflowmap.csv', 0, true);
-    createCanvasFlowmapLayer('../csv-data/geosphaeraflowmap.csv', 1);
-    createCanvasFlowmapLayer('../csv-data/geosphaeraflowmap.csv', 2);
+    createCanvasFlowmapLayer('../csv-data/Flowmap_Cities_one_to_many.csv', 0, true);
+    createCanvasFlowmapLayer('../csv-data/Flowmap_Cities_many_to_one.csv', 1);
+    createCanvasFlowmapLayer('../csv-data/Flowmap_Cities_one_to_one.csv', 2);
 
     function createCanvasFlowmapLayer(csvFilePath, customLayerId, doOneTimeDemoSetup) {
       Papa.parse(csvFilePath, {

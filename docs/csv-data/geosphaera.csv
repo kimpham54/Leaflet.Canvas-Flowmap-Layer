@@ -1,0 +1,229 @@
+block,origin_id,origin_name,origin_place,origin_longitude,origin_latitude,origin_begindate,destination_id,destination_name,destination_place,destination_longitude,destination_latitude,destination_enddate,note_description
+0,1825,Uberrimum sphere mundi commentum,Paris,2.351388888,48.85694444,1498,1825,Uberrimum sphere mundi commentum,Paris,2.351388888,48.85694444,1548,1
+1,1825,Uberrimum sphere mundi commentum,Paris,2.351388888,48.85694444,1498,2153,Uberrimum sphere mundi comentum,Paris,2.351388888,48.85694444,1548,1
+2,1801,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1626,1801,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1676,2
+3,1801,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1626,2189,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1676,2
+4,2189,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1639,1799,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1689,2
+5,1799,Sphaera Iohannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1647,1800,Sphaera Johannis de Sacro-Bosco,Leiden,4.494722222,52.15444444,1697,2
+6,1925,Sphaerae mundi compendium foeliciter inchoat,Venice,12.33194444,45.43972222,1490,1925,Sphaerae mundi compendium foeliciter inchoat,Venice,12.33194444,45.43972222,1540,3
+7,1925,Sphaerae mundi compendium foeliciter inchoat,Venice,12.33194444,45.43972222,1491,1926,Sphaera mundi,Venice,12.33194444,45.43972222,1541,3
+8,1926,Sphaera mundi,Venice,12.33194444,45.43972222,1501,1930,Sphaera mundi,Venice,12.33194444,45.43972222,1551,3
+9,1930,Sphaera mundi,Venice,12.33194444,45.43972222,1513,1650,Spherae Mundi,Venice,12.33194444,45.43972222,1563,3
+10,1650,Spherae Mundi,Venice,12.33194444,45.43972222,1519,1942,Spherae Mundi,Venice,12.33194444,45.43972222,1569,3
+11,1942,Spherae Mundi,Venice,12.33194444,45.43972222,1537,1883,Liber Ioannis de Sacro Busto de sphaera,Venice,12.33194444,45.43972222,1587,3
+12,1883,Liber Ioannis de Sacro Busto de sphaera,Venice,12.33194444,45.43972222,1537,1884,Liber Ioannis De Sacro Busto De Sphaera,Venice,12.33194444,45.43972222,1587,3
+13,1884,Liber Ioannis De Sacro Busto De Sphaera,Venice,12.33194444,45.43972222,1541,1682,Liber Ioannis de Sacro Busto de sphaera,Venice,12.33194444,45.43972222,1591,3
+14,1682,Liber Ioannis de Sacro Busto de sphaera,Venice,12.33194444,45.43972222,1545,1687,Liber Ioannis de Sacrobusto de sphaera,Venice,12.33194444,45.43972222,1595,3
+15,1781,Quaestiones in libellum De sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1552,1781,Quaestiones in libellum De sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1602,4
+16,1781,Quaestiones in libellum De sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1556,2104,Qvaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1606,4
+17,2104,Qvaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1560,2105,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1610,4
+18,2105,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1560,2148,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1610,4
+19,2148,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1561,1784,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1611,4
+20,1784,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1563,1862,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1613,4
+21,1862,Quaestiones in libellum de sphaera Ioannis de Sacro Busto,Frankfurt (Main),8.679722222,50.11361111,1571,1790,"Quaestiones, in libellum De sphaera Ioannis de Sacro Busto",Frankfurt (Main),8.679722222,50.11361111,1621,4
+22,1664,Mundialis Sphere opusculum Ioannis de sacro busco,Paris,2.351388888,48.85694444,1519,1664,Mundialis Sphere opusculum Ioannis de sacro busco,Paris,2.351388888,48.85694444,1569,5
+23,1664,Mundialis Sphere opusculum Ioannis de sacro busco,Paris,2.351388888,48.85694444,1524,1667,Mundialis Sphere opusculum Joannis de sacro busto,Paris,2.351388888,48.85694444,1574,5
+24,1879,"Liber Ioannis de Sacro Busto, de Sphæra",Venice,12.33194444,45.43972222,1532,1879,"Liber Ioannis de Sacro Busto, de Sphæra",Venice,12.33194444,45.43972222,1582,6
+25,1879,"Liber Ioannis de Sacro Busto, de Sphæra",Venice,12.33194444,45.43972222,1534,1881,Liber Ioannis de Sacro Bvsto de sphaera,Venice,12.33194444,45.43972222,1584,6
+26,1881,Liber Ioannis de Sacro Bvsto de sphaera,Venice,12.33194444,45.43972222,1548,1695,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1598,6
+27,1695,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1550,1701,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1600,6
+28,1701,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1552,2219,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1602,6
+29,2219,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1554,1707,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1604,6
+30,1707,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1557,1710,Sphaera Ioannis De Sacrobusto,Venice,12.33194444,45.43972222,1607,6
+31,1710,Sphaera Ioannis De Sacrobusto,Venice,12.33194444,45.43972222,1561,1715,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1611,6
+32,1715,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1561,2106,Sphaera Ioannis de Sacrobvsto,Venice,12.33194444,45.43972222,1611,6
+33,2106,Sphaera Ioannis de Sacrobvsto,Venice,12.33194444,45.43972222,1564,1722,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1614,6
+34,1722,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1572,1729,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1622,6
+35,1807,In Sphaeram Ioannis de Sacro Bosco commentarius,Rome,12.48277778,41.89305556,1581,1807,In Sphaeram Ioannis de Sacro Bosco commentarius,Rome,12.48277778,41.89305556,1631,7
+36,1807,In Sphaeram Ioannis de Sacro Bosco commentarius,Rome,12.48277778,41.89305556,1585,1808,In Sphaeram Ioannis de Sacro Bosco commentarius,Rome,12.48277778,41.89305556,1635,7
+37,1808,In Sphaeram Ioannis de Sacro Bosco commentarius,Rome,12.48277778,41.89305556,1591,1809,In Sphaeram Ioannis de Sacro Bosco commentarius,Venice,12.33194444,45.43972222,1641,7
+38,1809,In Sphaeram Ioannis de Sacro Bosco commentarius,Venice,12.33194444,45.43972222,1593,1746,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Lyon,4.841388888,45.75888889,1643,7
+39,1746,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Lyon,4.841388888,45.75888889,1594,1810,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Lyon,4.841388888,45.75888889,1644,7
+40,1810,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Lyon,4.841388888,45.75888889,1596,1811,In sphæram Ioannis de Sacro Bosco commentarius,Venice,12.33194444,45.43972222,1646,7
+41,1811,In sphæram Ioannis de Sacro Bosco commentarius,Venice,12.33194444,45.43972222,1601,1812,In Sphæram Ioannis de Sacro Bosco Commentarius,Venice,12.33194444,45.43972222,1651,7
+42,1812,In Sphæram Ioannis de Sacro Bosco Commentarius,Venice,12.33194444,45.43972222,1601,2278,In Sphaeram Ioannis de Sacro Bosco Commentarius,Venice,12.33194444,45.43972222,1651,7
+43,2278,In Sphaeram Ioannis de Sacro Bosco Commentarius,Venice,12.33194444,45.43972222,1602,1821,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Saint Gervais,6.713611111,45.8925,1652,7
+44,1821,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Saint Gervais,6.713611111,45.8925,1602,1813,"In Sphaeram Ioannis de Sacro Bosco, Commentarius",Lyon,4.841388888,45.75888889,1652,7
+45,1813,"In Sphaeram Ioannis de Sacro Bosco, Commentarius",Lyon,4.841388888,45.75888889,1603,1814,In Sphaeram Ioannis de Sacro Bosco Commentarius,Venice,12.33194444,45.43972222,1653,7
+46,1814,In Sphaeram Ioannis de Sacro Bosco Commentarius,Venice,12.33194444,45.43972222,1606,1815,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Rome,12.48277778,41.89305556,1656,7
+47,1815,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Rome,12.48277778,41.89305556,1607,1755,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Saint Gervais,6.713611111,45.8925,1657,7
+48,1755,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Saint Gervais,6.713611111,45.8925,1607,1816,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Lyon,4.841388888,45.75888889,1657,7
+49,1816,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Lyon,4.841388888,45.75888889,1607,1817,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Rome,12.48277778,41.89305556,1657,7
+50,1817,In Sphaeram Ioannis de Sacro Bosco. Commentarius,Rome,12.48277778,41.89305556,1607,2151,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Geneva,6.15,46.2,1657,7
+51,2151,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Geneva,6.15,46.2,1608,1818,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Saint Gervais,6.713611111,45.8925,1658,7
+52,1818,"In Sphaeram Ioannis de Sacro Bosco, commentarius",Saint Gervais,6.713611111,45.8925,1618,1822,"In Sphaeram Ioannis de Sacro Bosco, Commentarius",Lyon,4.841388888,45.75888889,1668,7
+53,1694,Sphaera Iohannis De Sacrobosco,Antwerp,4.399722222,51.22111111,1547,1694,Sphaera Iohannis De Sacrobosco,Antwerp,4.399722222,51.22111111,1597,8
+54,1694,Sphaera Iohannis De Sacrobosco,Antwerp,4.399722222,51.22111111,1547,2198,Sphaera Iohannis De Sacrobosco,Antwerp,4.399722222,51.22111111,1597,8
+55,2198,Sphaera Iohannis De Sacrobosco,Antwerp,4.399722222,51.22111111,1547,1692,Sphæra Iohannis de Sacrobosco,Leuven,4.704444,50.8775,1597,8
+56,1692,Sphæra Iohannis de Sacrobosco,Leuven,4.704444,50.8775,1551,1934,Sphaera Ioannis de Sacrobosco,Antwerp,4.399722222,51.22111111,1601,8
+57,1934,Sphaera Ioannis de Sacrobosco,Antwerp,4.399722222,51.22111111,1559,1712,Sphaera Ioannis de Sacrobosco,Antwerp,4.399722222,51.22111111,1609,8
+58,1712,Sphaera Ioannis de Sacrobosco,Antwerp,4.399722222,51.22111111,1561,1716,Sphæra Ioannis de Sacrobosco,Antwerp,4.399722222,51.22111111,1611,8
+59,1844,Opusculum Johannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1495,1844,Opusculum Johannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1545,9
+60,1844,Opusculum Johannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1500,1847,Opusculum Iohannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1550,9
+61,1847,Opusculum Iohannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1517,2194,Opusculum Iohannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1567,9
+62,2194,Opusculum Iohannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1520,1846,Opusculum Ioannis de Sacro Busto Spericum,Leipzig,12.38333333,51.33333333,1570,9
+63,1963,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1608,1963,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1658,10
+64,1963,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1619,1962,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1669,10
+65,1856,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1566,1856,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1616,11
+66,1856,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1566,1857,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1616,11
+67,2180,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1576,2180,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1626,12
+68,2180,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1576,2271,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1626,12
+69,1880,"Liber Iohannis de Sacro Busto, de Sphera",Wittenberg,12.6484,51.8671,1534,1880,"Liber Iohannis de Sacro Busto, de Sphera",Wittenberg,12.6484,51.8671,1584,13
+70,1880,"Liber Iohannis de Sacro Busto, de Sphera",Wittenberg,12.6484,51.8671,1536,1882,"Liber Ioannis de Sacro Busto, de sphaera",Wittenberg,12.6484,51.8671,1586,13
+71,1882,"Liber Ioannis de Sacro Busto, de sphaera",Wittenberg,12.6484,51.8671,1538,1885,"Ioannis de Sacro Busto libellus, De sphæra",Wittenberg,12.6484,51.8671,1588,13
+72,1885,"Ioannis de Sacro Busto libellus, De sphæra",Wittenberg,12.6484,51.8671,1540,1886,"Ioannis de Sacro-Busto libellus, de sphaera",Wittenberg,12.6484,51.8671,1590,13
+73,1886,"Ioannis de Sacro-Busto libellus, de sphaera",Wittenberg,12.6484,51.8671,1542,1887,Ioannis de Sacrobusto de sphaera liber,Paris,2.351388888,48.85694444,1592,13
+74,1887,Ioannis de Sacrobusto de sphaera liber,Paris,2.351388888,48.85694444,1543,1888,Ioannis de Sacro Busto libellus de sphaera,Wittenberg,12.6484,51.8671,1593,13
+75,1888,Ioannis de Sacro Busto libellus de sphaera,Wittenberg,12.6484,51.8671,1543,1684,Ioannis de sacro busto Libellus de Sphaera,Antwerp,4.399722222,51.22111111,1593,13
+76,1684,Ioannis de sacro busto Libellus de Sphaera,Antwerp,4.399722222,51.22111111,1545,1690,Ioannis de Sacro Busto libellus de sphaera,Wittenberg,12.6484,51.8671,1595,13
+77,1690,Ioannis de Sacro Busto libellus de sphaera,Wittenberg,12.6484,51.8671,1545,1688,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1595,13
+78,1688,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1549,1894,Ioannis de Sacrobusto libellus de sphæra,Wittenberg,12.6484,51.8671,1599,13
+79,1894,Ioannis de Sacrobusto libellus de sphæra,Wittenberg,12.6484,51.8671,1550,1895,Ioannis de Sacrobusto libellus de sphaera,Wittenberg,12.6484,51.8671,1600,13
+80,1895,Ioannis de Sacrobusto libellus de sphaera,Wittenberg,12.6484,51.8671,1553,1900,Ioannis de Sacro Busto Libellus de Sphaera,Wittenberg,12.6484,51.8671,1603,13
+81,1900,Ioannis de Sacro Busto Libellus de Sphaera,Wittenberg,12.6484,51.8671,1558,1891,Iohannis de Sacro Busto Libellus de sphaera,Wittenberg,12.6484,51.8671,1608,13
+82,1891,Iohannis de Sacro Busto Libellus de sphaera,Wittenberg,12.6484,51.8671,1561,1903,Iohannis de Sacro Busto Libellvs de sphaera,Wittenberg,12.6484,51.8671,1611,13
+83,1903,Iohannis de Sacro Busto Libellvs de sphaera,Wittenberg,12.6484,51.8671,1563,1904,Iohannis de Sacro Busto libellus de sphæra,Wittenberg,12.6484,51.8671,1613,13
+84,1904,Iohannis de Sacro Busto libellus de sphæra,Wittenberg,12.6484,51.8671,1568,1896,Iohannis de Sacro Busto Libellus de sphaera,Wittenberg,12.6484,51.8671,1618,13
+85,1896,Iohannis de Sacro Busto Libellus de sphaera,Wittenberg,12.6484,51.8671,1574,1897,Ioannis de Sacro Bvsto Libellvs de sphæra,Wittenberg,12.6484,51.8671,1624,13
+86,1897,Ioannis de Sacro Bvsto Libellvs de sphæra,Wittenberg,12.6484,51.8671,1578,1898,Iohannis de Sacro Busto libellus de sphaera,Wittenberg,12.6484,51.8671,1628,13
+87,1898,Iohannis de Sacro Busto libellus de sphaera,Wittenberg,12.6484,51.8671,1600,2254,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1650,13
+88,2254,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1601,1753,Libellus de Sphaera Iohannis de Sacro Busto,Wittenberg,12.6484,51.8671,1651,13
+89,1753,Libellus de Sphaera Iohannis de Sacro Busto,Wittenberg,12.6484,51.8671,1629,1899,Libellus de Sphaera Johannis de Sacro Busto,Wittenberg,12.6484,51.8671,1679,13
+90,2178,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1582,2178,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1632,14
+91,2178,De sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1588,2176,De Sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1638,14
+92,2176,De Sphaera et primis astronomiae rudimentis,Wittenberg,12.6484,51.8671,1598,2175,De Sphaera et primis astronomiae rudimentis,Sine loco,,,1648,14
+93,2175,De Sphaera et primis astronomiae rudimentis,Sine loco,,,1590,2177,"De Sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1640,14
+94,2177,"De Sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1595,2181,"De Sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1645,14
+95,2181,"De Sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1603,2182,"De sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1653,14
+96,2182,"De sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1611,2179,"De Sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1661,14
+97,2179,"De Sphaera, et primis astronomiae rudimentis",Wittenberg,12.6484,51.8671,1616,2183,"De sphaera, seu primi mobilis rudimentis libellus",Wittenberg,12.6484,51.8671,1666,14
+98,2183,"De sphaera, seu primi mobilis rudimentis libellus",Wittenberg,12.6484,51.8671,1629,2115,"De sphaera, seu primi mobilis rudimentis libellus",Wittenberg,12.6484,51.8671,1679,14
+99,2063,La Sfera del Mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1566,2063,La Sfera del Mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1616,15
+100,2063,La Sfera del Mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1573,2073,La sfera del mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1623,15
+101,2073,La sfera del mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1579,1919,La sfera del mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1629,15
+102,1919,La sfera del mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1584,2069,La sfera del mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1634,15
+103,2069,La sfera del mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1595,2067,La Sfera del Mondo di M. Alessandro Piccolomini,Venice,12.33194444,45.43972222,1645,15
+104,2160,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1564,2160,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1614,16
+105,2160,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1567,2158,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1617,16
+106,2158,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1570,2157,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1620,16
+107,2157,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1573,2161,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1623,16
+108,2161,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1578,2162,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1628,16
+109,2162,Novae quaestiones sphaerae,Wittenberg,12.6484,51.8671,1583,2159,Novae quaestiones sphaericae,Wittenberg,12.6484,51.8671,1633,16
+110,2159,Novae quaestiones sphaericae,Wittenberg,12.6484,51.8671,1591,2163,Novae quaestiones sphaericae,Wittenberg,12.6484,51.8671,1641,16
+111,2163,Novae quaestiones sphaericae,Wittenberg,12.6484,51.8671,1605,2164,Novae quaestiones sphaericae,Wittenberg,12.6484,51.8671,1655,16
+112,2258,Speculum astrologiae,Lyon,4.841388888,45.75888889,1581,2258,Speculum astrologiae,Lyon,4.841388888,45.75888889,1631,17
+113,2258,Speculum astrologiae,Lyon,4.841388888,45.75888889,1583,2190,Speculum astrologiae,Lyon,4.841388888,45.75888889,1633,17
+114,1616,Johannis de sacro busto spericum opusculum,Leipzig,12.38333333,51.33333333,1486,1616,Johannis de sacro busto spericum opusculum,Leipzig,12.38333333,51.33333333,1536,18
+115,1616,Johannis de sacro busto spericum opusculum,Leipzig,12.38333333,51.33333333,1489,2200,Iohannis de sacro busto spericum opusculum,Leipzig,12.38333333,51.33333333,1539,18
+116,2200,Iohannis de sacro busto spericum opusculum,Leipzig,12.38333333,51.33333333,1489,2201,Iohannis de sacro busto spericum opusculum,Leipzig,12.38333333,51.33333333,1539,18
+117,1624,Textus De Sphera Iohannis de Sacrobosco,Paris,2.351388888,48.85694444,1494,1624,Textus De Sphera Iohannis de Sacrobosco,Paris,2.351388888,48.85694444,1544,19
+118,1624,Textus De Sphera Iohannis de Sacrobosco,Paris,2.351388888,48.85694444,1500,1830,Textus de Sphera Johannis de Sacro bosco,Paris,2.351388888,48.85694444,1550,19
+119,1830,Textus de Sphera Johannis de Sacro bosco,Paris,2.351388888,48.85694444,1507,1833,Textus De Sphera Johannis de Sacrobosco,Paris,2.351388888,48.85694444,1557,19
+120,1833,Textus De Sphera Johannis de Sacrobosco,Paris,2.351388888,48.85694444,1511,1829,Textus De Sphera Johannis de Sacrobosco,Paris,2.351388888,48.85694444,1561,19
+121,1829,Textus De Sphera Johannis de Sacrobosco,Paris,2.351388888,48.85694444,1516,1828,Textus De Sphera Joannis de Sacrobosco,Paris,2.351388888,48.85694444,1566,19
+122,1626,Opusculum Iohannis de Sacro Busto spericum,Leipzig,12.38333333,51.33333333,1494,1626,Opusculum Iohannis de Sacro Busto spericum,Leipzig,12.38333333,51.33333333,1544,20
+123,1626,Opusculum Iohannis de Sacro Busto spericum,Leipzig,12.38333333,51.33333333,1498,1632,Opusculum Johannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1548,20
+124,1632,Opusculum Johannis de sacro busto spericum,Leipzig,12.38333333,51.33333333,1498,1638,Opusculum Johannis de sacrobusto spericum,Leipzig,12.38333333,51.33333333,1548,20
+125,2118,Opus sphericum magistri Ioannis de Sacro busto,Cologne,6.957777777,50.94222222,1503,2118,Opus sphericum magistri Ioannis de Sacro busto,Cologne,6.957777777,50.94222222,1553,21
+126,2118,Opus sphericum magistri Ioannis de Sacro busto,Cologne,6.957777777,50.94222222,1505,1795,Opus sphericum magistri Ioannis de Sacro busto,Cologne,6.957777777,50.94222222,1555,21
+127,1805,Uberrimum sphere mundi commentum,Paris,2.351388888,48.85694444,1508,1805,Uberrimum sphere mundi commentum,Paris,2.351388888,48.85694444,1558,22
+128,1805,Uberrimum sphere mundi commentum,Paris,2.351388888,48.85694444,1515,1824,Habes lector Iohannis de sacro busto sphere textum una,Paris,2.351388888,48.85694444,1565,22
+129,1655,Sphera materialis,Nuremberg,11.07777778,49.45277778,1516,1655,Sphera materialis,Nuremberg,11.07777778,49.45277778,1566,23
+130,1655,Sphera materialis,Nuremberg,11.07777778,49.45277778,1519,1877,Sphera materialis,Cologne,6.957777777,50.94222222,1569,23
+131,1870,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1521,1870,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1571,24
+132,1870,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1527,1869,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1577,24
+133,1869,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1531,1832,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1581,24
+134,1832,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1534,1831,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1584,24
+135,1831,Textus de sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1538,1843,Textus de Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1588,24
+136,1761,Sphaera Ioannis de Sacro Bosco,Dijon,5.041944444,47.32305556,1619,1761,Sphaera Ioannis de Sacro Bosco,Dijon,5.041944444,47.32305556,1669,25
+137,1761,Sphaera Ioannis de Sacro Bosco,Dijon,5.041944444,47.32305556,1633,1764,Sphaera Ioannis de Sacro Bosco,Dijon,5.041944444,47.32305556,1683,25
+138,1670,Mundialis sphere opusculum Ioannis de sacro busto,Paris,2.351388888,48.85694444,1527,1670,Mundialis sphere opusculum Ioannis de sacro busto,Paris,2.351388888,48.85694444,1577,26
+139,1670,Mundialis sphere opusculum Ioannis de sacro busto,Paris,2.351388888,48.85694444,1534,1679,Ioannis de Sacro Busto Sphaera Mundialis,Paris,2.351388888,48.85694444,1584,26
+140,1864,Sphera materialis,Strasbourg,7.752222222,48.57333333,1533,1864,Sphera materialis,Strasbourg,7.752222222,48.57333333,1583,27
+141,1864,Sphera materialis,Strasbourg,7.752222222,48.57333333,1539,1865,Sphaera Mundi,Strasbourg,7.752222222,48.57333333,1589,27
+142,2269,La sphere du monde,Paris,2.351388888,48.85694444,1551,2269,La sphere du monde,Paris,2.351388888,48.85694444,1601,28
+143,2269,La sphere du monde,Paris,2.351388888,48.85694444,1552,2270,Le sphere du monde,Paris,2.351388888,48.85694444,1602,28
+144,2070,De la sfera del mondo,Venice,12.33194444,45.43972222,1548,2070,De la sfera del mondo,Venice,12.33194444,45.43972222,1598,29
+145,2070,De la sfera del mondo,Venice,12.33194444,45.43972222,1561,1718,Della Sfera Del Mondo,Venice,12.33194444,45.43972222,1611,29
+146,1779,"Quaestiones novae, in libellum de Sphaera Iohannis de Sacro Busto",Frankfurt (Main),8.679722222,50.11361111,1549,1779,"Quaestiones novae, in libellum de Sphaera Iohannis de Sacro Busto",Frankfurt (Main),8.679722222,50.11361111,1599,30
+147,1779,"Quaestiones novae, in libellum de Sphaera Iohannis de Sacro Busto",Frankfurt (Main),8.679722222,50.11361111,1550,1594,Quaestiones novae in libellum de sphaera Johannis de Sacro Bosco,Wittenberg,12.6484,51.8671,1600,30
+148,2257,Sphaera mundi,Paris,2.351388888,48.85694444,1551,2257,Sphaera mundi,Paris,2.351388888,48.85694444,1601,31
+149,2257,Sphaera mundi,Paris,2.351388888,48.85694444,1552,2252,Sphaera mundi,Paris,2.351388888,48.85694444,1602,31
+150,2252,Sphaera mundi,Paris,2.351388888,48.85694444,1555,2253,"Orontii Finaei Delphinatis, de mundi sphaera",Paris,2.351388888,48.85694444,1605,31
+151,1952,Sphaera Ioannis De Sacro Bosco,Paris,2.351388888,48.85694444,1551,1952,Sphaera Ioannis De Sacro Bosco,Paris,2.351388888,48.85694444,1601,32
+152,1952,Sphaera Ioannis De Sacro Bosco,Paris,2.351388888,48.85694444,1552,1902,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1602,32
+153,1780,Qvaestiones Novae In Libellum De Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1551,1780,Qvaestiones Novae In Libellum De Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1601,33
+154,1780,Qvaestiones Novae In Libellum De Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1552,1782,Quaestiones novae in libellum de sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1602,33
+155,2077,Breve compendio de la sphera y de la arte de navegar,Seville,-5.983333333,37.38333333,1551,2077,Breve compendio de la sphera y de la arte de navegar,Seville,-5.983333333,37.38333333,1601,34
+156,2077,Breve compendio de la sphera y de la arte de navegar,Seville,-5.983333333,37.38333333,1556,2280,Breve compendio de la sphera y de la arte de navegar,Seville,-5.983333333,37.38333333,1606,34
+157,2064,Della Sfera del Mondo di M. Alisandro Piccolomini,Venice,12.33194444,45.43972222,1552,2064,Della Sfera del Mondo di M. Alisandro Piccolomini,Venice,12.33194444,45.43972222,1602,35
+158,2064,Della Sfera del Mondo di M. Alisandro Piccolomini,Venice,12.33194444,45.43972222,1553,2068,Della Sfera del Mondo di M. Alisandro Piccolomini,Venice,12.33194444,45.43972222,1603,35
+159,2165,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1553,2165,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1603,36
+160,2165,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1554,2172,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1604,36
+161,2172,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1558,2168,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1608,36
+162,2168,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1563,2166,"Elementa doctrinae de circulis coelestibus, & primo motu",Wittenberg,12.6484,51.8671,1613,36
+163,2166,"Elementa doctrinae de circulis coelestibus, & primo motu",Wittenberg,12.6484,51.8671,1569,2167,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1619,36
+164,2167,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1576,2169,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1626,36
+165,2169,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1587,2171,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1637,36
+166,2171,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1601,2173,"Elementa doctrinae de circulis coelestibus, et primo motu",Wittenberg,12.6484,51.8671,1651,36
+167,1777,Cosmographia in quatuor libros distributa,Venice,12.33194444,45.43972222,1585,1777,Cosmographia in quatuor libros distributa,Venice,12.33194444,45.43972222,1635,37
+168,1777,Cosmographia in quatuor libros distributa,Venice,12.33194444,45.43972222,1598,1778,Cosmographia in quatuor libros distributa,Venice,12.33194444,45.43972222,1648,37
+169,1708,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1556,1708,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1606,38
+170,1708,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1557,1711,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1607,38
+171,1711,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1558,1964,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1608,38
+172,1964,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1561,1955,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1611,38
+173,1955,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1562,1969,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1612,38
+174,1969,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1564,1973,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1614,38
+175,1973,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1569,1728,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1619,38
+176,1783,Quaestiones novae in libellum de sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1560,1783,Quaestiones novae in libellum de sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1610,39
+177,1783,Quaestiones novae in libellum de sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1562,1786,Qvæstiones novae in libellvm de sphæra Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1612,39
+178,1786,Qvæstiones novae in libellvm de sphæra Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1565,1788,Quaestiones novae in libellum de sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1615,39
+179,1788,Quaestiones novae in libellum de sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1566,1725,Quaestiones novae in libellum de Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1616,39
+180,1725,Quaestiones novae in libellum de Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1569,1789,Quæstiones novae in libellum de sphæra Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1619,39
+181,1912,Sphaera Ioannis de Sacro Bosco,Lyon,4.841388888,45.75888889,1564,1912,Sphaera Ioannis de Sacro Bosco,Lyon,4.841388888,45.75888889,1614,40
+182,1912,Sphaera Ioannis de Sacro Bosco,Lyon,4.841388888,45.75888889,1567,1968,Sphaera Ioannis de Sacro Bosco,Lyon,4.841388888,45.75888889,1617,40
+183,1953,Sphaera Ioannis de Sacro Bosco,Cologne,6.957777777,50.94222222,1566,1953,Sphaera Ioannis de Sacro Bosco,Cologne,6.957777777,50.94222222,1616,41
+184,1953,Sphaera Ioannis de Sacro Bosco,Cologne,6.957777777,50.94222222,1581,1960,Sphaera Ioannis de Sacro Bosco,Cologne,6.957777777,50.94222222,1631,41
+185,1960,Sphaera Ioannis de Sacro Bosco,Cologne,6.957777777,50.94222222,1591,1961,Sphaera Ioannis de Sacrobosco,Cologne,6.957777777,50.94222222,1641,41
+186,1961,Sphaera Ioannis de Sacrobosco,Cologne,6.957777777,50.94222222,1594,1959,Sphaera Ioannis de Sacrobosco,Cologne,6.957777777,50.94222222,1644,41
+187,1727,La sphera de Iuã de Sacro Bosco,Valladolid,-4.728561111,41.65198056,1567,1727,La sphera de Iuã de Sacro Bosco,Valladolid,-4.728561111,41.65198056,1617,42
+188,1727,La sphera de Iuã de Sacro Bosco,Valladolid,-4.728561111,41.65198056,1568,2197,La Sphera de Iuan de Sacrobosco,Valladolid,-4.728561111,41.65198056,1618,42
+189,1974,Sphæra Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1569,1974,Sphæra Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1619,43
+190,1974,Sphæra Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1572,1911,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1622,43
+191,1911,Sphaera Ioannis de Sacro Bosco,Paris,2.351388888,48.85694444,1577,1970,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1627,43
+192,1970,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1584,1741,Sphaera Ioannis de Sacrobosco,Paris,2.351388888,48.85694444,1634,43
+193,1730,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1573,1730,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1623,44
+194,1730,Sphaera Ioannis de Sacro Bosco,Antwerp,4.399722222,51.22111111,1582,2281,Sphaera Ioannis de Sacro Bosco emendata,Antwerp,4.399722222,51.22111111,1632,44
+195,2281,Sphaera Ioannis de Sacro Bosco emendata,Antwerp,4.399722222,51.22111111,1582,1958,Sphaera Ioannis de Sacro Bosco emendata,Antwerp,4.399722222,51.22111111,1632,44
+196,1836,La sfera di M. Giovanni di Sacrobosco,Perugia,12.3888,43.1121,1574,1836,La sfera di M. Giovanni di Sacrobosco,Perugia,12.3888,43.1121,1624,45
+197,1836,La sfera di M. Giovanni di Sacrobosco,Perugia,12.3888,43.1121,1574,2215,La sfera di M. Giovanni di Sacrobosco,Perugia,12.3888,43.1121,1624,45
+198,1965,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1574,1965,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1624,46
+199,1965,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1586,1971,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1636,46
+200,1971,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1620,1972,Sphaera Ioannis de Sacro Bosco,Venice,12.33194444,45.43972222,1670,46
+201,2208,"De sphaera, et primis astronomiae rudimentis",Antwerp,4.399722222,51.22111111,1575,2208,"De sphaera, et primis astronomiae rudimentis",Antwerp,4.399722222,51.22111111,1625,47
+202,2208,"De sphaera, et primis astronomiae rudimentis",Antwerp,4.399722222,51.22111111,1581,2268,"De sphaera, et primis astronomiae rudimentis",Antwerp,4.399722222,51.22111111,1631,47
+203,2268,"De sphaera, et primis astronomiae rudimentis",Antwerp,4.399722222,51.22111111,1585,2237,"De sphaera, et primis astronomiae rudimentis",Antwerp,4.399722222,51.22111111,1635,47
+204,1733,La sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1576,1733,La sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1626,48
+205,1733,La sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1584,1739,La Sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1634,48
+206,2203,"Fr. Iunctini Florentini, Commentaria in Sphaeram Ioannis de Sacro Bosco",Lyon,4.841388888,45.75888889,1577,2203,"Fr. Iunctini Florentini, Commentaria in Sphaeram Ioannis de Sacro Bosco",Lyon,4.841388888,45.75888889,1627,49
+207,2203,"Fr. Iunctini Florentini, Commentaria in Sphaeram Ioannis de Sacro Bosco",Lyon,4.841388888,45.75888889,1578,1852,"Fr. Iunctini Florentini, Commentaria in Sphæram Ioannis de Sacro Bosco",Lyon,4.841388888,45.75888889,1628,49
+208,1734,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1577,1734,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1627,50
+209,1734,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1580,1737,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1630,50
+210,1737,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1587,1743,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1637,50
+211,1743,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1594,1748,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1644,50
+212,1748,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1601,1752,Sphaera Ioannis de Sacrobusto,Venice,12.33194444,45.43972222,1651,50
+213,2225,The Arte of Navigation,London,-0.1275,51.50722222,1579,2225,The Arte of Navigation,London,-0.1275,51.50722222,1629,51
+214,2225,The Arte of Navigation,London,-0.1275,51.50722222,1584,2223,The Arte of Navigation,London,-0.1275,51.50722222,1634,51
+215,2223,The Arte of Navigation,London,-0.1275,51.50722222,1589,2226,The Arte of Navigation,London,-0.1275,51.50722222,1639,51
+216,2242,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1580,2242,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1630,52
+217,2242,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1581,2241,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1631,52
+218,2245,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1587,2245,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1637,53
+219,2245,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1593,2243,Isagoge sphaerica,Frankfurt (Main),8.679722222,50.11361111,1643,53
+220,2229,The Arte of Navigation,London,-0.1275,51.50722222,1609,2229,The Arte of Navigation,London,-0.1275,51.50722222,1659,54
+221,2229,The Arte of Navigation,London,-0.1275,51.50722222,1615,2222,The Arte of Navigation,London,-0.1275,51.50722222,1665,54
+222,2222,The Arte of Navigation,London,-0.1275,51.50722222,1630,2228,The Art of Navigation,London,-0.1275,51.50722222,1680,54
+223,1979,Sphaera,Leipzig,12.38333333,51.33333333,1614,1979,Sphaera,Leipzig,12.38333333,51.33333333,1664,55
+224,1979,Sphaera,Leipzig,12.38333333,51.33333333,1614,2261,Sphaera,Leipzig,12.38333333,51.33333333,1664,55
+225,2261,Sphaera,Leipzig,12.38333333,51.33333333,1622,1980,Sphaera,Leipzig,12.38333333,51.33333333,1672,55
+226,1758,La Sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1616,1758,La Sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1666,56
+227,1758,La Sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1619,1760,La sphere de Iean de Sacrobosco,Paris,2.351388888,48.85694444,1669,56
